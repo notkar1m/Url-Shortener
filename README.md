@@ -1,5 +1,5 @@
 # Link Shortener
-Link: [Press Here](https://link)
+Link: [Press Here](https://github.com/notkar1m/Url-Shortener)
 
 Made By: [Kar1m](http://kar1m.notkar1myt.repl.co/)
 
